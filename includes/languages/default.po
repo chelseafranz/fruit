@@ -1,0 +1,997 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Appweaver\n"
+"POT-Creation-Date: 2014-07-26 01:34+0200\n"
+"PO-Revision-Date: 2014-07-26 02:08+0200\n"
+"Last-Translator: \n"
+"Language-Team: Thezoc <contact@thezoc.com>\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:26
+msgid "Category Archive for:"
+msgstr ""
+
+#: archive.php:29
+msgid "Posts Tagged:"
+msgstr ""
+
+#: archive.php:32
+msgid "Blog Archives:"
+msgstr ""
+
+#: archive.php:58 index.php:30
+msgid "No Posts Found"
+msgstr ""
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:14
+msgid "Comments"
+msgstr ""
+
+#: comments.php:14
+msgid "Comment <span>(1)</span>"
+msgstr ""
+
+#: comments.php:14
+msgid "Comments <span>(%)</span>"
+msgstr ""
+
+#: comments.php:34
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:48
+msgid "Name (required)"
+msgstr ""
+
+#: comments.php:50
+msgid "E-Mail (required)"
+msgstr ""
+
+#: comments.php:52
+msgid "Website"
+msgstr ""
+
+#: comments.php:58
+msgid "Leave a reply"
+msgstr ""
+
+#: comments.php:60
+msgid "Submit comment"
+msgstr ""
+
+#: contact_section.php:5
+msgid "Please enter your name."
+msgstr ""
+
+#: contact_section.php:12
+msgid "Please enter your email address."
+msgstr ""
+
+#: contact_section.php:15
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: contact_section.php:24
+msgid "Please enter a message."
+msgstr ""
+
+#: contact_section.php:79 functions.php:139 functions.php:143
+msgid "Name"
+msgstr ""
+
+#: contact_section.php:80 functions.php:140 functions.php:144
+msgid "E-mail"
+msgstr ""
+
+#: contact_section.php:81 functions.php:141
+msgid "Subject"
+msgstr ""
+
+#: contact_section.php:86 functions.php:142
+msgid "Message"
+msgstr ""
+
+#: contact_section.php:91
+msgid "Send!"
+msgstr ""
+
+#: footer.php:18
+msgid "Behance"
+msgstr ""
+
+#: footer.php:21
+msgid "Grooveshark"
+msgstr ""
+
+#: footer.php:24
+msgid "Html5"
+msgstr ""
+
+#: footer.php:27
+msgid "Blogger"
+msgstr ""
+
+#: footer.php:30 includes/metaboxes/demo/demo.php:239
+msgid "Email"
+msgstr ""
+
+#: footer.php:33
+msgid "Delicious"
+msgstr ""
+
+#: footer.php:36
+msgid "Deviantart"
+msgstr ""
+
+#: footer.php:39
+msgid "Aim"
+msgstr ""
+
+#: footer.php:42
+msgid "Apple"
+msgstr ""
+
+#: footer.php:45
+msgid "Ember"
+msgstr ""
+
+#: footer.php:48
+msgid "Google"
+msgstr ""
+
+#: footer.php:51
+msgid "Facebook"
+msgstr ""
+
+#: footer.php:54
+msgid "Flickr"
+msgstr ""
+
+#: footer.php:57
+msgid "Digg"
+msgstr ""
+
+#: footer.php:60
+msgid "Dribbble"
+msgstr ""
+
+#: footer.php:63
+msgid "Forrst"
+msgstr ""
+
+#: footer.php:66
+msgid "Googleplus"
+msgstr ""
+
+#: footer.php:69
+msgid "Gowalla"
+msgstr ""
+
+#: footer.php:72
+msgid "Lastfm"
+msgstr ""
+
+#: footer.php:75
+msgid "Linkedin"
+msgstr ""
+
+#: footer.php:78
+msgid "Metacafe"
+msgstr ""
+
+#: footer.php:81
+msgid "Mixx"
+msgstr ""
+
+#: footer.php:84
+msgid "Netvibes"
+msgstr ""
+
+#: footer.php:87
+msgid "Rss"
+msgstr ""
+
+#: footer.php:90
+msgid "Yahoo"
+msgstr ""
+
+#: footer.php:93
+msgid "Yelp"
+msgstr ""
+
+#: footer.php:96
+msgid "Youtube"
+msgstr ""
+
+#: footer.php:99
+msgid "Instagram"
+msgstr ""
+
+#: footer.php:102
+msgid "Xing"
+msgstr ""
+
+#: footer.php:105
+msgid "Angel List"
+msgstr ""
+
+#: footer.php:108
+msgid "Skype"
+msgstr ""
+
+#: footer.php:111
+msgid "Stumbleupon"
+msgstr ""
+
+#: footer.php:114
+msgid "Technorati"
+msgstr ""
+
+#: footer.php:117
+msgid "Tumblr"
+msgstr ""
+
+#: footer.php:120
+msgid "Twitter"
+msgstr ""
+
+#: footer.php:123
+msgid "Reddit"
+msgstr ""
+
+#: footer.php:126
+msgid "Vimeo"
+msgstr ""
+
+#: footer.php:129
+msgid "Wordpress"
+msgstr ""
+
+#: footer.php:132
+msgid "Paypal"
+msgstr ""
+
+#: footer.php:135
+msgid "Picasa"
+msgstr ""
+
+#: footer.php:138
+msgid "Pinterest"
+msgstr ""
+
+#: footer.php:141
+msgid "Plurk"
+msgstr ""
+
+#: functions.php:134
+msgid "This is a required field"
+msgstr ""
+
+#: functions.php:135
+msgid "Please verify fields and try again."
+msgstr ""
+
+#: functions.php:136
+msgid "Please enter a valid e-mail address and try again."
+msgstr ""
+
+#: functions.php:137
+msgid "There was an error sending your email. Please try again later."
+msgstr ""
+
+#: functions.php:138
+msgid "Thanks, we got your mail and will get back to you soon!"
+msgstr ""
+
+#: functions.php:145
+msgid "http://"
+msgstr ""
+
+#: functions.php:146
+msgid "Search"
+msgstr ""
+
+#: functions.php:281
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions.php:283
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:283
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:288
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:315
+msgid "Page"
+msgstr ""
+
+#: functions.php:315
+msgid "of"
+msgstr ""
+
+#: functions.php:316
+msgid "First"
+msgstr ""
+
+#: functions.php:317
+msgid "Previous"
+msgstr ""
+
+#: functions.php:325
+msgid "Next"
+msgstr ""
+
+#: functions.php:326
+msgid "Last"
+msgstr ""
+
+#: functions.php:360
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:362
+msgid "These are widgets for the Blog page."
+msgstr ""
+
+#: loop.php:13
+msgid "Author:"
+msgstr ""
+
+#: loop.php:13
+msgid "Category:"
+msgstr ""
+
+#: loop.php:15 post-format/content-audio.php:20
+#: post-format/content-quote.php:22 post-format/content-video.php:30
+#: post-format/content.php:28 post-format/single-audio.php:11
+#: post-format/single-quote.php:13 post-format/single-video.php:22
+#: post-format/single.php:15
+msgid "No Comments"
+msgstr ""
+
+#: loop.php:15 post-format/single-audio.php:11 post-format/single-quote.php:13
+#: post-format/single-video.php:22 post-format/single.php:15
+msgid "1 Comment"
+msgstr ""
+
+#: loop.php:15 post-format/content-audio.php:20
+#: post-format/content-quote.php:22 post-format/content-video.php:30
+#: post-format/content.php:28 post-format/single-audio.php:11
+#: post-format/single-quote.php:13 post-format/single-video.php:22
+#: post-format/single.php:15
+msgid "% Comments"
+msgstr ""
+
+#: loop.php:21
+msgid "Continue reading ..."
+msgstr ""
+
+#: searchform.php:2
+msgid "To search type and hit enter"
+msgstr ""
+
+#: single.php:65
+msgid "About the author"
+msgstr ""
+
+#: single.php:82
+msgid "No Post Found"
+msgstr ""
+
+#: admin/front-end/options.php:43 admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: includes/meta-single.php:2
+msgid "Posted on "
+msgstr ""
+
+#: includes/meta-single.php:2
+msgid "in "
+msgstr ""
+
+#: includes/meta.php:1
+msgid "View all posts by"
+msgstr ""
+
+#: includes/meta.php:2
+msgid "Written by "
+msgstr ""
+
+#: includes/meta.php:6
+msgid "Posted in "
+msgstr ""
+
+#: includes/metaboxes/demo/all-custom-post-types.php:20
+msgid "Personal Information"
+msgstr ""
+
+#: includes/metaboxes/demo/all-custom-post-types.php:25
+msgid "Full name"
+msgstr ""
+
+#: includes/metaboxes/demo/better-include.php:16
+#: includes/metaboxes/demo/include-by-ID-or-page-template.php:8
+msgid "Meta Box Title"
+msgstr ""
+
+#: includes/metaboxes/demo/better-include.php:19
+#: includes/metaboxes/demo/include-by-ID-or-page-template.php:14
+msgid "Your images"
+msgstr ""
+
+#: includes/metaboxes/demo/date-time-js-options.php:11
+msgid "Date Time Picker With JS Options"
+msgstr ""
+
+#: includes/metaboxes/demo/date-time-js-options.php:21
+#: includes/metaboxes/demo/demo.php:184
+msgid "(yyyy-mm-dd)"
+msgstr ""
+
+#: includes/metaboxes/demo/date-time-js-options.php:23
+msgid "Select Date"
+msgstr ""
+
+#: includes/metaboxes/demo/date-time-js-options.php:24
+#: includes/metaboxes/demo/demo.php:185
+msgid "yy-mm-dd"
+msgstr ""
+
+#: includes/metaboxes/demo/date-time-js-options.php:30
+msgid "Datetime"
+msgstr ""
+
+#: includes/metaboxes/demo/date-time-js-options.php:41
+msgid "Time"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:34
+msgid "Standard Fields"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:53
+msgid "Text"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:57
+msgid "Text description"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:60
+msgid "Default text value"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:66
+msgid "Checkbox"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:74
+msgid "Radio"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:80 includes/metaboxes/demo/demo.php:91
+#: includes/metaboxes/demo/demo.php:233 includes/metaboxes/demo/demo.php:278
+msgid "Label1"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:81 includes/metaboxes/demo/demo.php:92
+#: includes/metaboxes/demo/demo.php:234 includes/metaboxes/demo/demo.php:279
+msgid "Label2"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:86 includes/metaboxes/demo/demo.php:273
+msgid "Select"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:97 includes/metaboxes/demo/demo.php:284
+msgid "Select an Item"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:104
+msgid "Hidden value"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:108
+msgid "Password"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:114
+msgid "Textarea"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:115
+msgid "Textarea description"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:132
+msgid "Password is required"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:133
+msgid "Password must be at least 7 characters"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:141
+msgid "Advanced Fields"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:147
+msgid "Heading"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:152
+msgid "Slider"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:157
+msgid "$"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:158
+msgid " USD"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:169
+msgid "Number"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:178
+msgid "Date picker"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:193
+msgid "Datetime picker"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:207
+msgid "Time picker"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:222
+msgid "Color picker"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:228
+msgid "Checkbox list"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:241
+msgid "Email description"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:247
+msgid "Range"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:249
+msgid "Range description"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:258
+msgid "URL"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:260
+msgid "URL description"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:266
+msgid "oEmbed"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:268
+msgid "oEmbed description"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:288
+msgid "Taxonomy"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:302
+msgid "Posts (Pages)"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:318
+msgid "WYSIWYG / Rich Text Editor"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:323
+msgid "WYSIWYG default value"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:339
+#: includes/metaboxes/demo/force-delete.php:15
+msgid "File Upload"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:345
+msgid "File Advanced Upload"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:353
+#: includes/metaboxes/demo/force-delete.php:22
+msgid "Image Upload"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:359
+#: includes/metaboxes/demo/force-delete.php:28
+msgid "Thickbox Image Upload"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:365
+#: includes/metaboxes/demo/force-delete.php:35
+msgid "Plupload Image Upload"
+msgstr ""
+
+#: includes/metaboxes/demo/demo.php:372
+msgid "Image Advanced Upload"
+msgstr ""
+
+#: includes/metaboxes/demo/force-delete.php:11
+msgid "Test Meta Box"
+msgstr ""
+
+#: includes/metaboxes/demo/map.php:9
+msgid "Google Map"
+msgstr ""
+
+#: includes/metaboxes/demo/map.php:13
+msgid "Address"
+msgstr ""
+
+#: includes/metaboxes/demo/map.php:15
+msgid "Hanoi, Vietnam"
+msgstr ""
+
+#: includes/metaboxes/demo/map.php:19
+msgid "Location"
+msgstr ""
+
+#: includes/metaboxes/inc/classes/meta-box.php:252
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: includes/metaboxes/inc/classes/meta-box.php:426
+msgid "+"
+msgstr ""
+
+#: includes/metaboxes/inc/classes/meta-box.php:448
+msgid "&#8211;"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/button.php:36
+msgid "Click me"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/image.php:64
+msgid "Order saved"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/post.php:54
+msgid "Post"
+msgstr ""
+
+#: includes/metaboxes/inc/fields/post.php:68
+#: includes/metaboxes/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:164
+#: includes/tgm-plugin-activation/tgm-plugin-activator.php:87
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:165
+#: includes/tgm-plugin-activation/tgm-plugin-activator.php:88
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:166
+#: includes/tgm-plugin-activation/tgm-plugin-activator.php:89
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:178
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:490
+#: includes/tgm-plugin-activation/tgm-plugin-activator.php:101
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:179
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1846
+#: includes/tgm-plugin-activation/tgm-plugin-activator.php:102
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:517
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/tgm-plugin-activation/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/tgm-plugin-activation/tgm-plugin-activator.php:90
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/tgm-plugin-activation/tgm-plugin-activator.php:103
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/widgets/embed.php:7
+msgid "Display Embed Video"
+msgstr ""
+
+#: includes/widgets/embed.php:9
+msgid "Thezoc Embed Video"
+msgstr ""
+
+#: includes/widgets/flickr.php:7
+msgid "Display your latest Flickr Photos"
+msgstr ""
+
+#: includes/widgets/flickr.php:9
+msgid "Thezoc Flickr"
+msgstr ""
+
+#: includes/widgets/flickr.php:54
+msgid "Flickr idGettr"
+msgstr ""
+
+#: includes/widgets/portfolio.php:7
+msgid "Display your latest Portfolio"
+msgstr ""
+
+#: includes/widgets/portfolio.php:9
+msgid "Thezoc Portfolio Posts"
+msgstr ""
+
+#: post-format/content-audio.php:20 post-format/content-quote.php:22
+#: post-format/content-video.php:30 post-format/content.php:28
+msgid "One Comment"
+msgstr ""
+
+#: post-format/content-audio.php:29 post-format/content-quote.php:32
+#: post-format/content-video.php:40 post-format/content.php:37
+msgid "Continue reading"
+msgstr ""
+
+#: post-format/pagination.php:3
+msgid "Newer posts &rarr;"
+msgstr ""
+
+#: post-format/pagination.php:8
+msgid "&larr; Older posts"
+msgstr ""
+
+#: post-format/single-audio.php:11 post-format/single-quote.php:13
+#: post-format/single-video.php:22 post-format/single.php:15
+msgid "By&nbsp;"
+msgstr ""
+
+#: post-format/single-audio.php:11 post-format/single-quote.php:13
+#: post-format/single-video.php:22 post-format/single.php:15
+msgid "in&nbsp;"
+msgstr ""

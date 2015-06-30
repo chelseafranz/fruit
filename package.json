@@ -1,0 +1,23 @@
+{
+  "name": "fruit",
+  "version": "1.0.0",
+  "description": "This version is '1.0' ============================================================ For installation, please open folder “Documention”. Read “Installation\" section. ============================================================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "fruitcreative"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^1.11.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.3",
+    "gulp-uglify": "^1.2.0"
+  }
+}
